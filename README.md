@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Andrii Iudchenko</h1>
 <h3 align="center">I build custom interactive, pixel-perfect and highly functional websites and web applications for various businesses.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iudchenko&label=Profile%20views&color=0e75b6&style=flat" alt="iudchenko" /> </p>
@@ -59,7 +58,6 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iudchenko&theme=dark" alt="iudchenko" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/iudchenko">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iudchenko&theme=dark" height="180em" />
