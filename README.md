@@ -48,17 +48,13 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/cypress.svg" alt="Cypress" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/jestjsio-icon.svg" alt="Jestjsio" width="40" height="40"/>
+
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Automation/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
 <div align="center">
+  <h3 align="left">Stats</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iudchenko&layout=compact&theme=dark" alt=iudchenko />
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iudchenko&theme=dark" alt="iudchenko" /></p>
 </div>
-<h3 align="left">Stats</h3>
-
-  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iudchenko&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iudchenko&theme=dark" height="180em" />
-
