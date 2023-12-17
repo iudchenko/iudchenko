@@ -59,8 +59,8 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iudchenko&theme=dark" alt="iudchenko" /></p>
 </div>
 <h3 align="left">Stats</h3>
-<div>
+
   
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iudchenko&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iudchenko&theme=dark" height="180em" />
-</div>
+
