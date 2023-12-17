@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrii Iudchenko</h1>
 <h3 align="center">I build custom interactive, pixel-perfect and highly functional websites and web applications for various businesses.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iudchenko&theme=darkhub" alt="iudchenko" /></a> </p>
-
 - 🔭 I’m currently working on **React and Node.js full-stack application**
 - 🌱 I’m currently learning **Next.js, Remix, Hydrogen**
 - 💬 Ask me about **React, JavaScript, TypeScript**
