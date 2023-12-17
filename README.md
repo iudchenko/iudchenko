@@ -55,9 +55,9 @@
 <h3 align="left">Stats</h3>
 <div align="center">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iudchenko&layout=compact&theme=dark" alt=iudchenko />
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iudchenko&theme=dark" alt="iudchenko" /></p>
-
+</div>
+<div>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iudchenko&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iudchenko&theme=dark" height="180em" />
 </div>
