@@ -15,15 +15,13 @@
 <a href="https://github.com/iudchenko" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/andrii.iudchenko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:andrii.iudchenko@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+</div>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iudchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="iudchenko" height="30" width="40" /></a><a href="https://fb.com/andrii.iudchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="andrii.iudchenko" height="30" width="40" /></a><a href="https://www.leetcode.com/iudchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="iudchenko" height="30" width="40" /></a><a href="https://instagram.com/andrii.iudchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="andrii.iudchenko" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iudchenko&layout=compact&theme=dark" alt=iudchenko />
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iudchenko&theme=dark" alt="iudchenko" /></p>
-</div>
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
@@ -56,8 +54,13 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
+<div align="center">
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iudchenko&layout=compact&theme=dark" alt=iudchenko />
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iudchenko&theme=dark" alt="iudchenko" /></p>
+</div>
 <h3 align="left">Stats</h3>
 <div>
+  
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iudchenko&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iudchenko&theme=dark" height="180em" />
 </div>
